@@ -23,7 +23,7 @@ VALUES
 ('Udson Costa', '3C', 22, 8.10),
 ('Valéria Carvalho', '4B', 22, 8.90);
 
-SELECT * FROM tb_alunos WHERE Nota > 7.00;
+	
 
 SELECT * FROM tb_alunos WHERE Nota < 7.00;
 
